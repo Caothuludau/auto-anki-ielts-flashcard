@@ -1,4 +1,5 @@
 > Note: This README was drafted with the assistance of AI. The content accurately reflects the tool’s functionality. I plan to rewrite and refine this documentation manually in the future.
+> I just wanted to acknowledge that this project played a huge role in helping me achieve an overall IELTS score of 7.5 (9.0 Reading, 8.0 Listening, 7.0 Writing, and 6.0 Speaking), especially helpful in improving writing skill!
 # auto-anki-ielts-flashcard
 
 **auto-anki-ielts-flashcard** là công cụ giúp **tự động tạo flashcard Anki chất lượng cao** cho việc học từ vựng tiếng Anh và luyện IELTS Writing, nhằm loại bỏ các thao tác thủ công lặp đi lặp lại khi học.
